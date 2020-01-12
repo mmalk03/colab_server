@@ -1,0 +1,2 @@
+export LD_PRELOAD=/usr/lib64-nvidia/libnvidia-ml.so
+export LD_LIBRARY_PATH=/usr/lib64-nvidia
